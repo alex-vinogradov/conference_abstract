@@ -1,0 +1,21 @@
+title: Назва тез
+author:
+  - name: Олександр Виноградов
+    orcid: 0000-0003-1250-3863
+    email: a.g.vinogradov@knu.ua
+    affiliations:
+      - КНУ імені Тараса Шевченка
+format: html
+editor: visual
+bibliography: references.bib
+csl: apa
+---
+
+## Вступ
+
+Тут йде текст тез. Так виглядає посилання на джерело [@li2024]
+
+## Література
+
+::: {#refs}
+:::
